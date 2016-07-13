@@ -1,0 +1,2 @@
+2016-04-30 16:26:51 - PHP Notice:  Undefined variable: content_top in /srv/opencart/catalog/view/theme/default/template/common/home.tpl on line 11
+2016-07-10 20:04:58 - PHP Notice:  Use of undefined constant eixt - assumed 'eixt' in /srv/opencart/admin/controller/extension/payment.php on line 6
